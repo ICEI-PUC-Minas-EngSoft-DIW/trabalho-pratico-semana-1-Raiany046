@@ -7,12 +7,11 @@ Matricula:1630828
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`(images/inspecao-cnu.png)
+![Tela de inspeção com navegador](images/inspecao-cnu.png)
 
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`(images/site-html.png)
-
+![Tela de projeto no Replit](images/site-html.png)
 
 ## Orientações sobre Linguagem MarkDown
 
